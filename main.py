@@ -20,7 +20,3 @@ digit_my = int(input('Введите число: '))
 print('Введённое вами число занимает в байтах')
 show_sizeof(digit_my)
 input('Для завершения и выхода из программы нажмите Enter')
-
-
-# show_sizeof(digit)
-
